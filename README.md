@@ -1,4 +1,4 @@
-# Named-Entity-Recognition
+# Named Entity Recognition Project
 
 NER project to recognize location, person, organization and time in a given text.
 
