@@ -109,7 +109,3 @@ To remove single letters in one line, replaced \n\w{1}\s\W with empty ch.
 
 
 
-
-
-
-
